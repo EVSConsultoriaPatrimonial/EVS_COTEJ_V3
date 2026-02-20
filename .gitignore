@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Ambiente virtual
+.venv/
+
+# Build
+dist/
+build/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Bancos locais
+*.db
+*.db-*
+
+# Excel locais
+*.xlsx
+*.xls
